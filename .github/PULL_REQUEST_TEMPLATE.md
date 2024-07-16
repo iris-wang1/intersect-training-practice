@@ -6,5 +6,5 @@
 
 ### Checklist
 <!-- Checklist of steps to be completed before PR can be reviewed -->
-[ ] Unit testing
-[ ] Code Clean-up
+- [ ] Unit testing
+- [ ] Code Clean-up
