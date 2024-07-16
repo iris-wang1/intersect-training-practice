@@ -1,5 +1,7 @@
 # INTERSECT Bootcamp - Practice Repository
 
+Participant: Iris Wang
+
 This repository is for use by participants in the INTERSECT Bootcamp series.
 The dates so far have been:
 
